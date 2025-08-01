@@ -25,4 +25,4 @@
 ---
 
 ### 📫 Connect with me
-- LinkedIn: [linkedin.com/in/YOUR-ID](#)
+- LinkedIn:  www.linkedin.com/in/shelaiya
