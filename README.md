@@ -19,7 +19,7 @@
 - Android (Kotlin, Java, XML)
 - Firebase (Auth, Firestore, Storage)
 - PHP & MySQL
-- No-code platforms (Softr, Glide, Webflow)
+- No-code platforms (Firebase Studio, Cursor, Lovable, Bolt, vercel v0)
 - Git & GitHub
 
 ---
